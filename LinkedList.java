@@ -1,6 +1,7 @@
 class LinkedList{
     public class Node{
         int data ;
+        int aravind ;
         Node next ;
     public Node(int data){
         this.data = data ;
